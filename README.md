@@ -1,5 +1,4 @@
  👋 Hi, I’m Minu Yuhansi
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Software Engineering
 - 💬 Ask me about web designing
 - 📫 How to reach me minuyuha003@gmail.com
