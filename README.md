@@ -7,7 +7,7 @@
 
 - 🔭 I am currently pursuing **BSc (Hons) Software Engineering at the Java Institute for Advanced Technology**
 
-- 🌱 I’m currently learning **React, Next.js, and backend development**
+- 🌱 I’m currently learning **React, Next.js, and Android development**
 
 - 🚀 Exploring **UI/UX best practices for responsive web apps**
 
