@@ -11,6 +11,7 @@
 ---
 
 ### 👩🏻‍💻 About Me
+
 * 🎓 Hi! I'm **Minupama Yuhansi**, a passionate **Software Engineering student** at Birmingham City University.
 * 🚀 I love building functional, user-friendly **Web** and **Mobile Applications**.
 * 📧 Reach me at: **minuyuha003@gmail.com**
@@ -18,9 +19,11 @@
 ---
 
 ### 🛠️ Tech Stack Matrix
+#### 🎨 Frontend Development 
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" /> </p> 
 
-#### 🎨 Frontend Development <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" /> </p> 
-#### ⚙️ Backend & Logic <p align="left"> <img src="https://skillicons.dev/icons?i=java,nodejs,php" /> </p>
+#### ⚙️ Backend & Logic 
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,nodejs,php" /> </p>
 
 #### 📱 Mobile Technologies
 <p align="left">
