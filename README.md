@@ -1,7 +1,7 @@
 
 <!-- Animated Waving Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:f9a470,100:ad336d&height=240&section=header&text=Minupama%20Yuhansi&fontSize=50&fontColor=0d1117&fontAlignY=40&animation=fadeIn" />
+ <img src="https://capsule-render.vercel.app/render?type=waving&color=0:f9a470,100:ad336d&height=240&section=header&text=Minupama%20Yuhansi&fontSize=50&fontColor=0d1117&fontAlignY=40&animation=fadeIn" />
 </p>
 
 <!-- Dynamic Typing Text -->
