@@ -1,14 +1,12 @@
-
 <!-- Animated Waving Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:f9a470,100:ad336d&height=240&text=Minupama%20Yuhansi&fontSize=50&fontColor=0d1117&animation=fadeIn&section=header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:f9a470,100:ad336d&height=240&text=Minupama%20Yuhansi&fontSize=50&fontColor=0d1117&animation=fadeIn&section=header" />
 </p>
 
 <!-- Dynamic Typing Text -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FAC4A4&center=true&width=435&lines=Software+Engineering;Full+Stack+Developer;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FAC4A4&center=true&width=435&lines=Software+Engineering;Full+Stack+Developer;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 👩🏻‍💻 About Me
